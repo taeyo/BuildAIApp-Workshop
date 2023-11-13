@@ -1,6 +1,15 @@
 ## [Application Innovation]
 # Intelligent AI App 개발 워크샵 for MSP
 
+## 사전 준비사항 (필수, Lab 이전에 준비)
+- [Azure Subscription](https://azure.microsoft.com/en-us/get-started/)
+  - 테스트를 위한 구독 필요.
+  - AOAI 접근 요청을 하려면 사전에 Azure 구독이 있어야 함.
+- [Azure OpenAI 접근 요청](https://aka.ms/oai/access) 
+  - 현재는 AOAI를 사용하려면 접근 요청을 하고 승인을 받아야 함(약 2-3일 소요)
+- [PostMan](https://www.postman.com/downloads/)) 설치
+- [Visual Studio Code](https://code.visualstudio.com/download) 설치
+
 ## Agenda
 
 |시간 (PM)|목표|설명|
